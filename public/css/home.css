@@ -1,0 +1,16 @@
+.navbar{
+    border-radius: 0 !important;
+    background-color: midnightblue;
+    /*background-image: url("../Media/Images/navbarimg.jpg");*/
+    border-color: transparent;
+    width: 100%;
+    position: fixed;
+    overflow: hidden;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+#navbar_link{
+    font-style: inherit;
+    color: white;
+}
